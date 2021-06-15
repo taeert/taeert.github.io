@@ -1,3 +1,3 @@
-# taeert.com
+# taeert.github.io
 
 Your next robot coming soon ...
